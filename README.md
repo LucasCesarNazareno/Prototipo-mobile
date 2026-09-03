@@ -10,10 +10,18 @@ Também serão disponibilizados links relacionados ao filme e aos artistas.
 
 ## Sumário da Wiki
 
+- Sobre a wiki https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Projeto-sobre-o-FIlme-A-hist%C3%B3ria-sem-fim
+
 - Dados do Filme https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Dados-do-filme
-  
-- Descrição dos Elementos https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Descri%C3%A7%C3%A3o-do-prot%C3%B3tipo
-  
-- Protótipo https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Prot%C3%B3tipo
-  
-- Estrutura dos Arquivos JSON https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/JSON
+
+- Protótipo da tela inicial https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Prot%C3%B3tipo-Tela-Inicial
+
+- Tela Enredo https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Enredo
+
+- Tela Elenco https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Elenco
+
+- Tela Dados Técnicos https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Dados-T%C3%A9cnicos
+
+- Tela Curiosidades https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Curiosidades
+
+- Tela Afins https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Afins
